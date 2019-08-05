@@ -4,6 +4,12 @@ Simple User Interface Toolkit for LÖVE.
 
 SUIT is an immediate mode GUI library.
 
+## Fork?
+
+My fork of SUIT is (hopefully) a stopgap while I wait for official SUIT to merge pull requests from fituldo and piotrczarnecki. 
+Their patches are merged in this fork.
+Hopefully they'll get merged into the official repo soon, and then this fork will disappear.
+
 ## Documentation?
 
 Over at [readthedocs](http://suit.readthedocs.org/en/latest/).
